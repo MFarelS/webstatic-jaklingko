@@ -1,0 +1,25 @@
+{
+  "name": "webstatic-jaklingko",
+  "version": "1.0.0",
+  "description": "Web Static Jaklingko",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adejpa/webstatic-jaklingko.git"
+  },
+  "author": "adethis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adejpa/webstatic-jaklingko/issues"
+  },
+  "homepage": "https://github.com/adejpa/webstatic-jaklingko#readme",
+  "devDependencies": {
+    "grunt": "^1.5.3",
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jit-grunt": "^0.10.0"
+  }
+}
